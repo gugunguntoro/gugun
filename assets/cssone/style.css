@@ -5,8 +5,7 @@
 
 html {
 	overflow-y: visible;
-	width :100%;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 body {
