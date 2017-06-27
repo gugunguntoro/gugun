@@ -4,7 +4,7 @@
 }
 
 html {
-	overflow-x: visible;
+	overflow-x: hidden;
 	overflow-y: scroll;
 }
 
