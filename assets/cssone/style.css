@@ -4,8 +4,8 @@
 }
 
 html {
-	overflow-x: hidden;
-	overflow-y: initial;
+	overflow-x: scroll;
+	overflow-y: visible;
 }
 
 body {
