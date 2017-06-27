@@ -32,8 +32,9 @@ body {
 	margin-top: -7px;
 }
 
-.modal {
+.close {
 	width: 100%;
+	height: 100%;
 }
 
 
